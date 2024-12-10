@@ -9,3 +9,4 @@ How to capture the flag before Guardduty traps you
 
 # Resource
 Courtesy of MrRobot
+- [ ] https://snyk.io/learn/aws-security/aws-security-breaches/
